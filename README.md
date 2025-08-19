@@ -1,4 +1,4 @@
 # GitHub-portfolio
-# Hello World Program
-My first GitHub repository.  
-This project contains a simple "Hello World" program written in Java.  
+# I am mathurya muralimohan
+🎓 Undergraduate at Sabaragamuwa University of Sri Lanka 
+💻 Studying **Information Systems
