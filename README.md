@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Mathurya Muralimohan  
 
 🎓 Undergraduate student at *Sabaragamuwa University of Sri Lanka*  
-📚 Pursuing *BSc (Hons) in Information Systems*  
-💻 Aspiring *Software Developer* with a passion for coding and problem-solving  
+📚 Pursuing BSc (Hons) in Information Systems 
+💻 Interested in applying data-driven solutions to real-world challenges 
 
 ---
 
@@ -10,7 +10,6 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -29,7 +28,8 @@
 ## 🌱 Currently Learning  
 
 •⁠  ⁠Strengthening *Data Structures & Algorithms (DSA)* with Java  
-•⁠  ⁠Exploring *Web Development frameworks* like React, Node.js  
+
+
 •⁠  ⁠Interested in *Databases* & *System Design*  
 
 ---
